@@ -1,5 +1,5 @@
 # Food house restaurant Management System
-A restaurant management system using django: http://anujmaddy.pythonanywhere.com/
+A restaurant management system using django.
 
 Here is a real life application build with django, bootstrap-4
 
